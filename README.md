@@ -32,7 +32,7 @@ The program iterates through the Roman string and applies the following values:
 
 The project is contained within a single C++ source file:
 
-1.  **`main.cpp`**: Contains the `Conersion` class and the main execution loop.
+1.  **`Roman-to_Int.cpp`**: Contains the `Conersion` class and the main execution loop.
 
 ## 💻 How to Run
 
@@ -40,13 +40,13 @@ The project is contained within a single C++ source file:
 Run the following command in your terminal to build the project:
 
 ```bash
-g++ main.cpp -o roman_converter
+g++ main.cpp -o Roman-to_Int
 ```
 
 ### 2. Run
 Execute the compiled program:
 ```bash
-./roman_converter
+Roman-to_Int.cpp
 ```
 
 ### 3. Input
